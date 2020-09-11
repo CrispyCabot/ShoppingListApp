@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="list_item_1">Apples</string>
+    <string name="list_item_2">Cheese</string>
+    <string name="list_item_3">Rice</string>
+    <string name="list_item_4">Carrots</string>
+    <string name="list_item_5">Lettuce</string>
+    <string name="list_item_6">Water</string>
+    <string name="list_item_7">Milk</string>
+    <string name="list_item_8">Donuts</string>
+    <string name="list_item_9">Broccoli</string>
+    <string name="list_item_10">Tomatoes</string>
+</resources>
